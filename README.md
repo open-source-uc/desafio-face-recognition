@@ -3,7 +3,7 @@
   <a href=#><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="200px" alt="banner"></a>
 </h1>
 
-<h4 align="center"> Descripción del proyecto en una linea </h4>
+<h4 align="center"> Reconocimiento facial en opencv </h4>
 
 <p align="center">
      <!-- Badges Here -->
@@ -23,60 +23,17 @@
 
 ## About
 
-Descripción larga
-
-<table>
-<tr>
-<td>
-
-![Imagen/gif de preview](#)
-<p align="right">
-<sub>(Preview)</sub>
-</p>
-
-</td>
-</tr>
-</table>
-
-### Features
-
-|                            |  theProject        | ◾ Other           |
-| -------------------------- | :----------------: | :---------------: |
-| Feature 1                  |         ✔️         |        ❌        |
-| Feature 2                  |         ✔️         |        ❌        |
-
+Reconocimiento facial en opencv
 
 ## Installation
-Requirements:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
 
-##### Downloading and installing steps (pre-build files):
-* **[Download, fork](#)** the latest release.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following command: `install.sh`
-
-##### Downloading, building from source and installing steps:
-To build theProject, you need to have:
-- [Req 1](#) version 1.0
-- [Req 2](#) (tested with 2.0)
-
-Steps: 
-* **[Download, fork](#)** the latest version from `main` branch.
-* **Open...** the following path: `\etc\theproject`
-* **Execute, Launch** in the _console_ the following commands:
-```
-mkdir build
-cd build && make
-```
+- `pip install pipenv`
+- `pipenv install`
+- `pipenv shell`
 
 ## Usage
 
-* **Execute, Launch** in the _console_ the following command: `run theProject`
-
-
-### Updating
-
+* **Execute, Launch** in the _console_ the following command: `python main.py`
 
 ## Contributing
 
@@ -91,9 +48,6 @@ Please use the [issue tracker](#) to report any bugs or file feature requests.
 > El workflow es PR a development -> Revisar preview y checks -> Asignar reviewers -> Aprobación -> Merge a development
 
 Detailed information on how to contribute can be found on [contributing.md](contributing.md) (in spanish).
-
-
-
 
 
 ## Support
@@ -117,7 +71,10 @@ Reach out to us at one of the following places:
 
 ### Maintainers
 
+  - [FarDust](http://github.com/Fardust)
+  - [chepo92](http://github.com/chepo92)
+  - [fernandosmither](http://github.com/fernandosmither)
 
 ## License
 
-[![License: This licence](#)](#)
+[![License](https://img.shields.io/badge/license-MIT-green)](./license.md)
