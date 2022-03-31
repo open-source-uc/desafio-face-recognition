@@ -1,3 +1,4 @@
+<a href="https://codeclimate.com/github/open-source-uc/desafio-face-recognition/maintainability"><img src="https://api.codeclimate.com/v1/badges/2ee1d9df045fbc252e4c/maintainability" /></a>
 <h1 align="center">
   <br>
   <a href=#><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="200px" alt="banner"></a>
